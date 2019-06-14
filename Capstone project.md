@@ -17,7 +17,7 @@ This presentation describes the Next Word Shiny-app:
 Objectives
 ========================================================
 
-The goal of this exercise is to create a Shiny-app that deploys an R algorithm to predict the next word for a given short sentence. This app is published on shinyapps.io to make it accessible by others.
+The goal of this exercise is to create a Shiny-app that deploys an R algorithm to predict the next word for a given short sentence. This app is published on shinyapps.io (https://gvmeurs.shinyapps.io/nxtWordPredictor/) to make it accessible by others.
 
 Three different (English) sources were used as input-data to build the prediction-model: blogs, news and twitter-data from the HC Corpora.
 
